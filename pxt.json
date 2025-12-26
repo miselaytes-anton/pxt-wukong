@@ -16,6 +16,10 @@
         "_locales/cs/wuKong-jsdoc-strings.json",
         "_locales/cs/wuKong-strings.json",
         "_locales/es-ES/wuKong-strings.json",
+        "_locales/nl/wuKong-jsdoc-strings.json",
+        "_locales/nl/wuKong-strings.json",
+        "_locales/ru/wuKong-jsdoc-strings.json",
+        "_locales/ru/wuKong-strings.json",
         "_locales/zh-TW/wuKong-jsdoc-strings.json",
         "_locales/zh-TW/wuKong-strings.json"
     ],

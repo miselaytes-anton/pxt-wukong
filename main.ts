@@ -184,7 +184,7 @@ namespace wuKong {
         setMotorSpeed(MotorList.M2, 0)
     }
 
-	/*
+	/**
      * TODO: Setting the angle of a servo motor. 
      * @param servo A servo in the ServoList 
      * @param angel Angle of servo motor 
@@ -635,7 +635,7 @@ namespace wuKong {
         }
     }
     
-    /*
+    /**
      * TODO: Setting the speed of a servo motor. 
      * @param servo A servo in the ServoList 
      * @param angel Angle of servo motor 
